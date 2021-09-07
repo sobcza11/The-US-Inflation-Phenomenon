@@ -1,4 +1,4 @@
-![alt text](https://github.com/sobcza11/Understanding-the-US-Inflation-Phenomenon/blob/main/_other/READ ME_Back.JPG)
+![alt text](https://github.com/sobcza11/Understanding-the-US-Inflation-Phenomenon/blob/main/_other/READ_ME_Back.JPG)
 # OVERVIEW
 **The United States Consumer Price Index** ( “**Inflation**” ) is calculated by the U.S. Bureau of Labor Statistics. It has gone through various periods of prominent increases; notably in the 1920’s, 1940’s, & 1970’s. Otherwise, it has remained relatively constant or declining. 
 
