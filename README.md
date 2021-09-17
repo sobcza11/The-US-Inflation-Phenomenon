@@ -14,6 +14,6 @@ In short, **Inflation is an important component of developing investment strateg
 In the enclosed you will find:
    * **Notebooks**
      * This is where the source code is stored
-   * **Presentations**
+   * **Reports**
      * The Presentation & Report summarizes the findings
        * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & viewed as a PDF, not on GitHub</i>
