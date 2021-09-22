@@ -8,7 +8,7 @@ In short, **Inflation is an important component of developing investment strateg
 
 
 # DESCRIPTION
-**The purpose of this Data Science project is to develop a model to explain & understand the phenomenon of Inflation. I shortlisted nineteen ( 19 ) variables to determine their influence on Inflation since 1990.**
+**The purpose of this Data Science project is to develop a model to explain & understand the phenomenon of Inflation. I shortlisted nineteen ( 19 ) variables to determine their influence on Inflation since 1991.**
 
 # CONTENTS
 In the enclosed you will find:
