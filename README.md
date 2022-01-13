@@ -13,10 +13,10 @@ In short, **Inflation is an important component of developing investment strateg
 # CONTENTS
 In the enclosed you will find:
 
-  * **Data**
+  * **data**
       * This is where the data is stored
-  * **Notebooks**
+  * **notebooks**
       * This is where the source code is stored
-  * **Reports**
+  * **reports**
       * The Presentation & Report summarizes the findings
         * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & viewed as a PDF, not on GitHub</i>
