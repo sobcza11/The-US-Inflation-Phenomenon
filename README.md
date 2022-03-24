@@ -18,5 +18,5 @@ In the enclosed you will find:
   * **notebooks**
       * This is where the source code is stored
   * **reports**
-      * The Presentation & Report summarizes the findings
+      * A Presentation & Report is stored here summarizing the findings
         * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & viewed as a PDF, not on GitHub</i>
